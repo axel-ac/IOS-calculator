@@ -37,6 +37,12 @@ body {
   justify-content: space-evenly;
 }
 
+.previous-display{
+  opacity: 0.5;
+  font-size: 30px;
+  overflow: hidden;
+}
+
 .buttons-container {
   display: grid;
   gap: 10px;
