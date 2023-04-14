@@ -1,6 +1,6 @@
 # IOS Calculator
 ## Description
-Project aims to create IOS Calculator.
+Project aims to create CSS-GRID IOS Calculator.
 ## Project Skeleton
 ```
 IOS Calculator (folder)
